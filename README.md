@@ -35,7 +35,7 @@ This web app predicts **Chronic Kidney Disease (CKD)** using machine learning mo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Barnik-Podder/CKD_Prediction.git
+git clone https://github.com/arpandutta05/CKD_Prediction.git
 cd CKD_Prediction/backend
 ```
 
